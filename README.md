@@ -10,7 +10,7 @@ c) Relationship of large N and the arrow of time
 d) Computation of the velocity distribution of particles for the system and comparison with
 the Maxwell velocity distribution.
 
-2. Plot the probability of various macrostates in coin-tossing experiment (two level system)
+2.{DONE} Plot the probability of various macrostates in coin-tossing experiment (two level system)
 versus number of heads with 4, 8, 16 coins etc.
 
 3. Computation of the partition function Z(b) for the systems with a finite number of single
@@ -21,23 +21,23 @@ temperature, total number of particles N and the spectrum of single particle ene
 states.
 b) Plot the probability of occupancy of all the states w.r.t. temperature.
 
-4. Plot the Maxwell speed distribution function at different temperatures in a 3-dimension
+4.{DONE} Plot the Maxwell speed distribution function at different temperatures in a 3-dimension
 system. Calculate the average speed, root mean square and most probable speed.
 
-5. Plot Specific Heat of Solids w.r.t temperature
+5.{DONE} Plot Specific Heat of Solids w.r.t temperature
 a) Dulong-Petit law,
 b) Einstein distribution function
 c) Debye distribution function
 
-6. Plot the following functions with energy at different temperatures
+6.{DONE} Plot the following functions with energy at different temperatures
 a) Maxwell-Boltzmann distribution
 b) Fermi-Dirac distribution
 c) Bose-Einstein distribution
 
-7. Plot the distribution of particles w.r.t. energy (dN/de versus e) in 3 Dimensions for
+7.{DONE} Plot the distribution of particles w.r.t. energy (dN/de versus e) in 3 Dimensions for
 a) Relativistic and non-relativistic bosons both at high and low temperature.
 b) Relativistic and non-relativistic fermions both at high and low temperature.
 
-8. Plot Planck’s law of Black body radiation w.r.t. wavelength/frequency at different
+8.{DONE} Plot Planck’s law of Black body radiation w.r.t. wavelength/frequency at different
 temperatures. Compare it with Rayleigh-Jeans Law and Wien’s distribution law for a
 given temperature.
